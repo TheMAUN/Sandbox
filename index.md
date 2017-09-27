@@ -1,4 +1,5 @@
-## Willkommen bei der MAUN!
+# Willkommen bei der MAUN!
+Hey, Du bist gerade auf die Seite der Minecraft Mapmaker Union gestoßen. Viel Spaß!
 
 You can use the [editor on GitHub](https://github.com/TheMAUN/TheMAUN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
