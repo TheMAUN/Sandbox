@@ -4,7 +4,7 @@ Im Folgenden findet ihr unsere Projekte, unterteilt in Haupt- und Nebenprojekte.
 Hauptprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen größeren Umfang.
 * aktuell
 
-<img src="images/The-Dream.png" width="150" style="center">
+<img src="images/The-Dream.png" width="150" align="middle" >
 
 "Beschreibung"
 
@@ -15,7 +15,7 @@ Hauptprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen gr
 Nebenprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen geringeren Umfang.
 * aktuell<br />
 
-<img src="images/Sheeparcours.png" width="150" style="center">
+<img src="images/Sheeparcours.png" width="150" align="middle">
 
 "Beschreibung"
 
