@@ -1,7 +1,7 @@
 # Willkommen bei der MAUN!
 Hey! Du bist auf der Seite der Minecraft Mapmaker Union gelandet! Viel Spaß!
 
-[English Version](https://themaun.github.io)
+[English Version](https://themaun.github.io/en)
 
 ## Projekte
 Übersicht über Downloads und Beiträge zu unseren Adventure Maps, Jump 'n' Runs und Minigames.
