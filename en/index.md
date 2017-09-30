@@ -6,7 +6,7 @@ Hey! You're on the official site of the Minecraft Mapmaker Union! Have fun!
 ## Projects
 See downloads and posts about our adventure maps, jump 'n' runs and minigames.
 
-[More...](https://themaun.github.io/Projects)
+[More...](https://themaun.github.io/en/Projects)
 
 ### Platzhalter 
 I bims eins Platzhalter vong Text her.
