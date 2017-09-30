@@ -4,7 +4,7 @@ Im Folgenden findet ihr unsere Projekte, unterteilt in Haupt- und Nebenprojekte.
 Hauptprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen größeren Umfang.
 * aktuell
 
-<p align="center"><img src="images/The-Dream.png" width="150"></p>
+<p align="center"><img src="https://themaun.github.io/images/The-Dream.png" width="150"></p>
 
 "Beschreibung"
 
@@ -15,7 +15,7 @@ Hauptprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen gr
 Nebenprojekte benötigen mehr Zeit als Nebenprojekte und haben meistens einen geringeren Umfang.
 * aktuell<br />
 
-<p align="center"><img src="images/Sheeparcours.png" width="150"></p>
+<p align="center"><img src="https://themaun.github.io/images/Sheeparcours.png" width="150"></p>
 
 "Beschreibung"
 
