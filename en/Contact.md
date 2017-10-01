@@ -6,3 +6,5 @@ Use the Google Form or scroll down and join us on Discord.
 or
 
 <iframe src="https://discordapp.com/widget?id=303531394242707456&theme=dark" width="300" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+[Back to main page](https://themaun.github.io/en)
