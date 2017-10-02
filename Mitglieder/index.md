@@ -24,7 +24,7 @@ Auf dieser Seite findet ihr eine Liste der MAUN-Mitglieder. Klicke auf den Namen
 ## Mitglieder
 |Avatar|Name|  
 |:-:  |:-:  |  
-|<img src="Face/Sassor.png" width="50">|[Mega Waffel](https://themaun.github.io/Mitglieder/Mega_Waffel)|  
+|<img src="Face/Mega_Waffel.png" width="50">|[Mega Waffel](https://themaun.github.io/Mitglieder/Mega_Waffel)|  
 |<img src="Face/markack.png" width="50">|[markack](https://themaun.github.io/Mitglieder/markack) (inaktiv)|  
 
 [Zurück zur Startseite](https://themaun.github.io)
