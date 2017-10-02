@@ -2,10 +2,10 @@
 Auf dieser Seite findet ihr eine Liste der MAUN-Mitglieder. Klicke auf den Namen, um den selbstgeschriebenen Steckbrief zu öffnen.
 
 ## Gründer
-|  Avatar                                        |                                                                       Name  |  
-|:----------------------------------------------:|:---------------------------------------------------------------------------:|  
-|  <img src="Face/Diamanttron.png" width="50">   |  [Diamanttron](https://themaun.github.io/Mitglieder/Diamanttron) (inaktiv)  |  
-|  <img src="Face/Sir_Dijamond.png" width="50">  |  [Sir Dijamond](https://themaun.github.io/Mitglieder/Sir_Dijamond)          |  
+|                    Avatar                     |                                     Name                                   |
+|:---------------------------------------------:|:--------------------------------------------------------------------------:|
+|  <img src="Face/Diamanttron.png" width="50">  |  [Diamanttron](https://themaun.github.io/Mitglieder/Diamanttron) (inaktiv) |
+| <img src="Face/Diamanttron.png" width="50">   |     [Sir Dijamond](https://themaun.github.io/Mitglieder/Sir_Dijamond)      |
 
 ## Leitung
 |Avatar|Name|  
