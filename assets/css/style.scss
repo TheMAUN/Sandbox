@@ -2,4 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-img, a {border: 0px, outline: 0px;}
+img, a {
+  border-width: 0px
+  border-style: none
+  }
