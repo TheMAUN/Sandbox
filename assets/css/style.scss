@@ -17,3 +17,19 @@ img {
   -o-box-shadow: 0 0 0px #ebebeb;
   -ms-box-shadow: 0 0 0px #ebebeb;
 }
+
+div.smallcenter {
+  text-align: center;
+  font-size: 65%;
+}
+
+h1.mitgliedname {
+  text-align: center;
+  margin: 10px 0;
+  font-family: 'Nyala';
+  font-weight: 700;
+  color: #23272A;
+  letter-spacing: -1px;
+  font-size: 36px;
+  font-weight: 700;
+}
