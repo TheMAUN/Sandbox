@@ -5,7 +5,7 @@
 
 ## This site
 This site is  
-* published by <a href="https://pages.github.com">GitHub Pages</a>  
+* published with <a href="https://pages.github.com">GitHub Pages</a>  
 * designed and written by [Sir Dijamond](https://themaun.github.com/Mitglieder/Sir_Dijamond)   
 * using a costumized [jekyll theme](https://help.github.com/articles/about-the-jekyll-theme-chooser/) ([theme: slate](https://github.com/pages-themes/slate)).
 
@@ -13,5 +13,5 @@ This site is
 * Minecraft player avatars and heads provided by <a href="https://crafatar.com">Crafatar</a>. Much thanks!
 * This site is not promoted by or affiliated with Mojang AB.
 
-<div style="font-size:50%">© Minecraft Mapmaker Union 2017, © Sir Dijamond 2017</div>  
-<a href="https://github.com/TheMAUN/TheMAUN.github.io/graphs/contributors">All contributors</a>
+<div style="font-size:50%">© Minecraft Mapmaker Union 2017, © Sir Dijamond 2017<br />
+<a href="https://github.com/TheMAUN/TheMAUN.github.io/graphs/contributors">All contributors</a></div>
