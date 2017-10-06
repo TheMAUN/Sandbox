@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Germania+One|Indie+Flower');
 img {
   position: relative;
   margin: 0 auto;
@@ -27,7 +28,7 @@ div.smallcenter {
 h1.mitgliedname {
   text-align: center;
   margin: 10px 0;
-  font-family: 'Indie_Flower';
+  font-family: 'Indie Flower', cursive;
   font-weight: 700;
   color: #23272A;
   letter-spacing: -1px;
