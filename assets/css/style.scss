@@ -34,3 +34,17 @@ h1.mitgliedname {
   font-size: 36px;
   font-weight: 700;
 }
+
+.error_table {
+  width: 100%;
+  vertical-align: center;
+  box-shadow: 3px -3px 5px black;
+  text-align: center;
+}
+
+.error_table tr {
+}
+
+.error_table td {
+  background-color: #F78181;
+}
