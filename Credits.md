@@ -13,5 +13,5 @@ This site is
 * Minecraft player avatars and heads provided by <a href="https://crafatar.com">Crafatar</a>. Much thanks!
 * This site is not promoted by or affiliated with Mojang AB.
 
-<div style="font-size:50%">© Minecraft Mapmaker Union 2017, © Sir Dijamond 2017<br />
+<div style="font-size:75%">© Minecraft Mapmaker Union 2017, © Sir Dijamond 2017<br />
 <a href="https://github.com/TheMAUN/TheMAUN.github.io/graphs/contributors">All contributors</a></div>
