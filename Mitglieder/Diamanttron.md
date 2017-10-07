@@ -3,7 +3,6 @@
 <table class="noborder_table">
 <tr>
 <td width="80%" align="center">
-<span style="font-family:'Indie Flower' font-size:28px">
 Sorry!
 </td>
 <td align="right" width="20%">
