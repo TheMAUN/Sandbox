@@ -43,15 +43,7 @@ h1.mitgliedname {
   text-align: center;
 }
 
-.error_table tr {
-  border: 0px transparent #ebebeb;
-  border-width: 0px;
-
-  box-shadow: 0 0 0px #ebebeb;
-  -webkit-box-shadow: 0 0 0px #ebebeb;
-  -moz-box-shadow: 0 0 0px #ebebeb;
-  -o-box-shadow: 0 0 0px #ebebeb;
-  -ms-box-shadow: 0 0 0px #ebebeb;
+.error_table tr { 
 }
 
 .error_table td {
@@ -73,5 +65,12 @@ p.ch1 {
 }
 
 .noborder_table {
-  border: none;
+  border: 0px transparent #ebebeb;
+  border-width: 0px;
+
+  box-shadow: 0 0 0px #ebebeb;
+  -webkit-box-shadow: 0 0 0px #ebebeb;
+  -moz-box-shadow: 0 0 0px #ebebeb;
+  -o-box-shadow: 0 0 0px #ebebeb;
+  -ms-box-shadow: 0 0 0px #ebebeb;
 }
