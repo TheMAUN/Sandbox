@@ -5,4 +5,4 @@
 <table class="error_table"><tr><td>Dieses Mitglied ist leider inaktiv und
 hat somit auch kein Profil.</td></tr></table>
 
-[Zurück zu Mitglieder](https://themaun.github.io/Mitglieder)
+<p style="text-align:center"><a href="https://themaun.github.io/Mitglieder">Zurück zur Mitgliederliste</a></p>
