@@ -3,10 +3,10 @@
 
 <table class="noborder_table">
 <tr>
-<td width="75%" align="center">
+<td width="70%" align="center">
 KURZE_BESCHREIBUNG-SCHREIB,_WAS_DU_WILLST
 </td>
-<td align="right" width="25%">
+<td align="right" width="30%">
 <img src="Head/Sir_Dijamond.png" width="100px">
 </td>
 </tr>
